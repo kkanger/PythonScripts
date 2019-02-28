@@ -1,6 +1,6 @@
 """
 -------------------------------------------------
-Python script to find ARG-contigs MAGs
+Python script to find ARG-contigs in MAGs
 -------------------------------------------------
 
 This script compares a list of contig IDs that are included in metagenome assembled genomes (MAGs) to a list of contig IDs that carry ARGs
