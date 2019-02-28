@@ -3,6 +3,9 @@
 Python script to find ARG-contigs in MAGs
 -------------------------------------------------
 
+Author: Kärt Kanger
+Date written: February 2019
+
 This script compares a list of contig IDs that are included in metagenome assembled genomes (MAGs) to a list of contig IDs that carry ARGs
 and outputs a list of contig IDs that carry ARGs and are included in MAGs.
 
