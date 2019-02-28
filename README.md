@@ -1,6 +1,7 @@
 # PythonScripts
 
 Python scripts that I use in my everyday work to analyze shotgun metagenomic sequencing data of environmental microbiomes.
+All scripts include information on author and the date of creation.
 
 Method S1 is a script to find assembled contigs with multiple antibiotic resistance genes (ARGs).
 
